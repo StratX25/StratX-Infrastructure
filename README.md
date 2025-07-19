@@ -97,3 +97,8 @@ For strategic discussions, licensing, or white-label proposals:
 - Architecture Diagrams (Pending upload)  
 # StratX-Infrastructure
 Programmable routing, conversion, and compliance infrastructure for fiat and blockchain systems.
+## 🔬 Stress Test Results
+
+StratX has been internally tested at 35,000 tx/min with fallback triggers, sanctions filters, and multi-rail failover simulation.
+
+📄 [View the stress test summary](./docs/stress-test-summary.md)
