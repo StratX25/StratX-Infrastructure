@@ -94,11 +94,15 @@ For strategic discussions, licensing, or white-label proposals:
 
 - Whitepaper (Coming soon)  
 - Developer Documentation (In progress)  
-- Architecture Diagrams (Pending upload)  
-# StratX-Infrastructure
+- Architecture Diagrams (Pending upload)
+
+ ---
+ 
+## StratX-Infrastructure
 Programmable routing, conversion, and compliance infrastructure for fiat and blockchain systems.
-## 🔬 Stress Test Results
 
-StratX has been internally tested at 35,000 tx/min with fallback triggers, sanctions filters, and multi-rail failover simulation.
+📂 View real routing logs: [logs_batch_ripple_sandbox.txt](./proof/logs_batch_ripple_sandbox.txt)
 
-📄 [View the stress test summary](./docs/stress-test-summary.md)
+🔐 SHA256: 1c7f92bf2d27a73f8038c3f6be41c642273e6b77bbc1874a1042eb497eadced5
+
+⚠️ Note: All data simulated in a Ripple sandbox environment using StratX architecture. No sensitive logic or identity fields disclosed.
