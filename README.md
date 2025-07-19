@@ -1,4 +1,4 @@
-[![StratX Simulation Verified](https://img.shields.io/badge/Stress%20Test-Global%20Bank%20Verified-blue.svg)](./proof/logs_batch_global_bank.txt)
+[![Global Simulation Verified](https://img.shields.io/badge/StratX%20Log-Verified%2050k%20Global-blue)](./proof/logs_batch_global_verified.txt)
 ![Patent](https://img.shields.io/badge/Patent-Pending-orange)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
