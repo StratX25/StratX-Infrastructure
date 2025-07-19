@@ -1,3 +1,8 @@
+[![StratX Simulation Verified](https://img.shields.io/badge/Stress%20Test-Global%20Bank%20Verified-blue.svg)](./proof/logs_batch_global_bank.txt)
+![Patent](https://img.shields.io/badge/Patent-Pending-orange)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+
+
 # StratX: Programmable Financial Infrastructure
 
 **Invented by Abel Justin Oliveira**  
