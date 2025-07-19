@@ -1,7 +1,7 @@
 [![Global Simulation Verified](https://img.shields.io/badge/StratX%20Log-Verified%2050k%20Global-blue)](./proof/logs_batch_global_verified.txt)
 ![Patent](https://img.shields.io/badge/Patent-Pending-orange)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
-![StratX Global Routing Execution Report](./docs/global-execution-report.md)
+[![Global Report](https://img.shields.io/badge/StratX%20Execution-Full%20Audit%20Report-blue)](./docs/global-execution-report.md)
 
 # StratX: Programmable Financial Infrastructure
 
