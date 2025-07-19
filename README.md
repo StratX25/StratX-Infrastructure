@@ -114,7 +114,7 @@ Programmable routing, conversion, and compliance infrastructure for fiat and blo
 
 📂 Global Bank Simulation Log: [logs_batch_global_bank.txt](./proof/logs_batch_global_bank.txt)
 
-🔐 SHA256: a52d1c6ada37c1b25e18695ce9ac4b44df766a9ffaf461adbb872c3baef9dae9
+🔐 SHA256: dfe7910a4a4d69f8f0bc3b6971071a8b545fae67b77c21749337dc82aa9f8d26
 
 🌍 Simulated execution of 50,000 cross-border transactions routed through StratX architecture under Ripple-as-global-bank conditions, spanning five global regions with fallback and sanctions enforcement active.
 
