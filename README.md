@@ -8,6 +8,7 @@
 **Invented by Abel Justin Oliveira**  
 Patent Title: *Programmable Financial-Infrastructure Protocol for Sovereign Routing, Conversion, and Settlement*
 
+📬 [Strategic Licensing Window Now Open](./STRATX_NOTICE.md)
 ---
 
 ## 🌐 What is StratX?
