@@ -81,7 +81,7 @@ For strategic discussions, licensing, or white-label proposals:
 
 - ✅ Global Routing Logic Finalized  
 - ✅ Institutional Wallet Layer (RouteFi) Designed  
-- 🔜 Compliance Sandbox Testing  
+- ✅ Compliance Sandbox Testing  
 - 🔜 Cross-Chain Optimization (XRP, Ethereum, CBDCs)  
 - 🔜 SDK & API Documentation  
 
