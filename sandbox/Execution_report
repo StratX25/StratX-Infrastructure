@@ -1,0 +1,10 @@
+# StratX Predefined Stress Test Report
+
+- Total Transactions: 50,000
+- Blocked (compliance): 1,276
+- Routed via fallback: 32,873
+- Passed without fallback: 15,851
+- Avg. Latency: 128.59 ms
+- Avg. Route Score: 0.38
+- Throughput: ~250 tx/sec
+- SHA256 Log Hash: 84337b9e5706490dca36d1d8b45b43f8f7268ae0aa4944d4dc5b417b0aade898
