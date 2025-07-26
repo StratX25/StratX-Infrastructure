@@ -72,7 +72,7 @@ StratX is available for:
 For strategic discussions, licensing, or white-label proposals:
 
 📧 [StratX25@gmail.com]  
-🔒 Patent Filing: *U.S. Non-Provisional application # (19/238,393)*  
+🔒 Patent Filing: *U.S. Non-Provisional application # (19/280,077) (19/281,589)*  
 💼 GitHub Profile: (https://github.com/StratX25)
 
 ---
