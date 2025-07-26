@@ -1,0 +1,21 @@
+{
+  "sanctioned_countries": [
+    "RU",
+    "IR",
+    "KP",
+    "SY",
+    "CU"
+  ],
+  "fallback": {
+    "min_score_threshold": 0.45,
+    "max_latency_ms": 120
+  },
+  "sovereign_overrides": {
+    "MENA": {
+      "allow_override": true
+    },
+    "EU": {
+      "strict": true
+    }
+  }
+}
