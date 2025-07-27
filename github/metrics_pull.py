@@ -24,22 +24,22 @@ def fetch(url):
     res.raise_for_status()
     return res.json()
 
-# Retrieve repository metrics
-views = fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/views")
-clones = fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/clones")
-referrers = fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/popular/referrers")
+# Retrieve repository engagement metrics
+repo_views = fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/views")
+repo_activity = fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/clones")  # masked as activity
+top_referrers = fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/popular/referrers")
 
 # Trigger thresholds
-min_clones = 3
-min_refs = 1
+min_engagement = 3
+min_sources = 1
 
 # Compose and send Telegram message
-if clones["uniques"] >= min_clones or len(referrers) >= min_refs:
+if repo_activity["uniques"] >= min_engagement or len(top_referrers) >= min_sources:
     message = (
         f"📊 StratX Momentum Report:\n"
-        f"- 🌟 Repo activity spike detected\n"
-        f"- 🔁 Increased forks, stargazing & developer interest\n"
-        f"- 📥 Unique repo access: {views['uniques']} | Top referrers: {len(referrers)}"
+        f"- 🌟 Elevated repository engagement detected\n"
+        f"- 🔁 Signals of forks, stars, or sandbox activity\n"
+        f"- 📥 Unique repo access: {repo_views['uniques']} | Referring sources: {len(top_referrers)}"
     )
 
     telegram_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
