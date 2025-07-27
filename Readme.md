@@ -153,5 +153,5 @@ StratX was tested with a 75,000-transaction simulation favoring Stellar using re
 [![Simulation Badge](https://img.shields.io/badge/🔁_75,000_TX_Simulation-Realistic_Fallback_✓_0_Errors-blueviolet?style=flat-square)](./docs/routing_flexibility_updated.md)
 [![SHA256 Verified](https://img.shields.io/badge/🔐_SHA256_Verified-5d4f3c0257f36471-greenyellow?style=flat-square)](./proof/logs_batch_global_stellar_weighted_summary_verified.txt)
 
-<!-- trigger test -->
+<!-- tracker test -->
 
