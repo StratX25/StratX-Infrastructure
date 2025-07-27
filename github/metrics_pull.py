@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Telegram alert logic (FREE)
 
-bot_token = "8461268130:AAEBUlm7DqjCRljiljF6C5MyQSUtio_ckHY"
+bot_token = os.environ.get("8461268130:AAF8FSAegC45r8_GhnUJ-3CKilCJHFozyVo")
 chat_id = "6468476747"  # Abel Oliveira
 min_clones = 3
 min_refs = 1
