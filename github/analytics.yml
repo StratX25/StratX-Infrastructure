@@ -1,4 +1,4 @@
-name:name: Repository Metrics
+name: Repository Metrics
 
 on:
   schedule:
