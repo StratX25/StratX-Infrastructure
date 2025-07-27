@@ -3,37 +3,17 @@ import csv
 import os
 from datetime import datetime
 
-token = os.environ.get("GITHUB_TOKEN")
-owner = "StratX25"
-repo = "StratX-Infrastructure"
+# Telegram alert logic (FREE)
 
-headers = {
-    "Authorization": f"token {token}",
-    "Accept": "application/vnd.github.v3+json"
-}
+bot_token = "8461268130:AAEBUlm7DqjCRljiljF6C5MyQSUtio_ckHY"
+chat_id = "6468476747"  # Abel Oliveira
+min_clones = 3
+min_refs = 1
 
-urls = {
-    "views": f"https://api.github.com/repos/{owner}/{repo}/traffic/views",
-    "clones": f"https://api.github.com/repos/{owner}/{repo}/traffic/clones",
-    "referrers": f"https://api.github.com/repos/{owner}/{repo}/traffic/popular/referrers"
-}
+if data["clones"]["uniques"] >= min_clones or len(data["referrers"]) >= min_refs:
+    message = f"📈 StratX Alert:\nViews: {data['views']['uniques']}, Clones: {data['clones']['uniques']}, Refs: {len(data['referrers'])}"
+    telegram_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    params = {"chat_id": chat_id, "text": message}
+    r = requests.post(telegram_url, params=params)
+    print("✅ Telegram alert sent" if r.status_code == 200 else "⚠️ Telegram failed", r.status_code)
 
-def fetch(url):
-    res = requests.get(url, headers=headers)
-    res.raise_for_status()
-    return res.json()
-
-data = {k: fetch(v) for k, v in urls.items()}
-log_file = "logs/metrics.csv"
-os.makedirs("logs", exist_ok=True)
-timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-
-if not os.path.exists(log_file):
-    with open(log_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(["Timestamp", "Views (Unique)", "Views (Total)", "Clones (Unique)", "Clones (Total)", "Top Referrers"])
-
-with open(log_file, "a", newline="") as f:
-    writer = csv.writer(f)
-    top_refs = ", ".join([r["referrer"] for r in data["referrers"][:3]]) if data["referrers"] else "N/A"
-    writer.writerow([timestamp, data["views"]["uniques"], data["views"]["count"], data["clones"]["uniques"], data["clones"]["count"], top_refs])
