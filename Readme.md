@@ -121,10 +121,5 @@ Programmable routing, conversion, and compliance infrastructure for fiat and blo
 
 ---
 
-### ⚙️ Programmable Routing Examples
 
-StratX can dynamically route based on compliance, speed, liquidity, or even strategic bias.
-
-🔍 **[View: Favoring Stellar Simulation →](./docs/routing_flexibility.md)**  
-Run with 75,000 transaction simulations, this scenario shows how StratX can be configured to route in favor of Stellar.
 
