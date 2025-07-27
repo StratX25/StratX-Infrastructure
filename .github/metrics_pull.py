@@ -43,3 +43,12 @@ if activity["uniques"] >= min_engagement or len(referrers) >= min_sources:
     params = {"chat_id": chat_id, "text": message}
     r = requests.post(url, params=params)
     print("✅ Telegram alert sent" if r.status_code == 200 else f"⚠️ Telegram failed: {r.status_code}")
+
+      - name: 📊 Run engagement tracking
+        run: |
+          mkdir -p logs
+          python .github/metrics_pull.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          PATTY: ${{ secrets.GITHUB_PAT }}
