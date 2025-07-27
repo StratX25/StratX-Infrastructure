@@ -3,10 +3,11 @@ import csv
 import os
 from datetime import datetime
 
-# Load secrets securely
-bot_token = os.environ.get("BOT_TOKEN")
-chat_id = os.environ.get("CHAT_ID")
-token = os.environ.get("GITHUB_PAT") or os.environ.get("GITHUB_TOKEN")
+# Load secrets from GitHub Actions
+bot_token = os.environ.get("BOT_TOKEN")         # Telegram bot token
+chat_id = os.environ.get("CHAT_ID")             # Telegram user chat ID
+token = os.environ.get("PATTY")                 # Your GitHub PAT
+
 
 # Telegram alert logic (FREE)
 
