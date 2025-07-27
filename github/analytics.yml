@@ -1,4 +1,4 @@
-name: Repository Metrics
+name:name: Repository Metrics
 
 on:
   schedule:
@@ -6,23 +6,26 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  engagement-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: 📦 Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: 📥 Install dependencies
         run: pip install requests
 
-      - name: Run metrics script
+      - name: 📊 Run engagement tracking
         run: |
           mkdir -p logs
           python .github/metrics_pull.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_PAT }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          PATTY: ${{ secrets.GITHUB_PAT }}
