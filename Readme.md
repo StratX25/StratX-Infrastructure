@@ -44,7 +44,6 @@ StratX is designed to integrate seamlessly into both existing financial rails an
 - **Stellar Development Foundation**: StratX supercharges payment corridors with programmable conversion, routing, and sanctions enforcement.
 - **IMF & Central Banks**: Deploy programmable infrastructure for sovereign-level control of compliance and liquidity without reliance on fragmented third-party apps.
 
-
 ---
 
 ## 🛡️ Patent Protection
@@ -118,3 +117,13 @@ Programmable routing, conversion, and compliance infrastructure for fiat and blo
 🔐 SHA256: dfe7910a4a4d69f8f0bc3b6971071a8b545fae67b77c21749337dc82aa9f8d26
 
 🌍 Simulated global bank execution of 50,000 tx with sanctions screening and sovereign fallback enforcement. Hash-verified.
+
+---
+
+### ⚙️ Programmable Routing Examples
+
+StratX can dynamically route based on compliance, speed, liquidity, or even strategic bias.
+
+🔍 **[View: Favoring Stellar Simulation →](./docs/routing_flexibility.md)**  
+Run with 75,000 transaction simulations, this scenario shows how StratX can be configured to route in favor of Stellar.
+
