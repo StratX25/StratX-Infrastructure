@@ -121,6 +121,31 @@ Programmable routing, conversion, and compliance infrastructure for fiat and blo
 🌍 Simulated global bank execution of 50,000 tx with sanctions screening and sovereign fallback enforcement. Hash-verified.
 
 ---
+[![Simulation Badge](https://img.shields.io/badge/🔁_75,000_TX_Simulation-Realistic_Fallback_✓_0_Errors-blueviolet?style=flat-square)](./docs/routing_flexibility_updated.md)
 
+---
+
+### ✅ Simulation Integrity: Routing Flexibility — Stellar Weighted
+
+StratX was tested with a 75,000-transaction simulation favoring Stellar using realistic fallback logic.
+
+- 3-hop fallback architecture
+- 0 false positives
+- 100% success rate
+- Batching: 3,000 groups of 25 transactions
+- Final routing behavior:
+  - Stellar: ~59%
+  - XRP: ~29%
+  - Ethereum: ~11%
+
+📄 **[View Full Explanation](./docs/routing_flexibility_updated.md)**  
+📁 **[Proof File](./proof/logs_batch_global_stellar_weighted_summary_verified.txt)**
+
+🔐 **SHA-256 Integrity Hash:**
+5d4f3c0257f364710a56acd9cca1a53c8d7e28b993b0cc7ff52c7e4ae7745faa
+> This hash verifies the integrity of the raw simulation log against the published results.
+
+[![Simulation Badge](https://img.shields.io/badge/🔁_75,000_TX_Simulation-Realistic_Fallback_✓_0_Errors-blueviolet?style=flat-square)](./docs/routing_flexibility_updated.md)
+[![SHA256 Verified](https://img.shields.io/badge/🔐_SHA256_Verified-5d4f3c0257f36471-greenyellow?style=flat-square)](./proof/logs_batch_global_stellar_weighted_summary_verified.txt)
 
 
