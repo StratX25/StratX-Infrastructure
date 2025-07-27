@@ -35,8 +35,6 @@ StratX doesn’t hardcode rails. It adapts:
 - To failover logic
 - To institutional strategy
 
-It proves that ownership of StratX means ownership of the **routing logic that runs global capital flows**.
-
 ---
 
 ## Strategic Implication
