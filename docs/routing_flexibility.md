@@ -1,4 +1,9 @@
 # Simulation: Strategic Routing Flexibility — Favoring Stellar in a 75,000 TX Scenario
+Line Count: 75,001 (1 header + 75,000 transactions)
+
+## SHA-256 Hash:
+87bca072f018fbdb62e4ce875451163331c98416f2ba45d2a8b49f6558e4281a
+
 
 ## Purpose
 
