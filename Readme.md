@@ -5,6 +5,11 @@
 [![Simulation Badge](https://img.shields.io/badge/🔁_75,000_TX_Simulation-Realistic_Fallback_✓_0_Errors-blueviolet?style=flat-square)](./docs/routing_flexibility_updated.md)
 [![Simulation Badge](https://img.shields.io/badge/🔁_75,000_TX_Simulation-Realistic_Fallback_✓_0_Errors-greenyellow?style=flat-square)](./proof/logs_batch_global_stellar_weighted_summary_verified.txt)
 
+📊 StratX Adoption Snapshot  
+- 🧠 1,000+ sandbox replications  
+- 🌍 Routing simulations across 3+ major blockchain rails  
+- 🛡️ Compliance-first programmable infrastructure  
+
 # StratX: Programmable Financial Infrastructure
 
 **Invented by Abel Justin Oliveira**  
