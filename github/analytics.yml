@@ -23,6 +23,6 @@ jobs:
       - name: Run metrics script
         run: |
           mkdir -p logs
-          python .github/scripts/metrics_pull.py
+          python .github/metrics_pull.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_PAT }}
