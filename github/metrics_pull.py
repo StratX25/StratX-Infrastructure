@@ -8,6 +8,14 @@ bot_token = os.environ.get("BOT_TOKEN")         # Telegram bot token
 chat_id = os.environ.get("CHAT_ID")             # Telegram user chat ID
 token = os.environ.get("PATTY")                 # Your GitHub PAT
 
+# Define target repo
+owner = "StratX25"
+repo = "StratX-Infrastructure"
+
+# GitHub API headers using secret token
+headers = {
+    "Authorization": f"token {token}",
+    "Accept": "application/vnd.github.v3+json"
 
 # Telegram alert logic (FREE)
 
