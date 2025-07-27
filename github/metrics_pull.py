@@ -18,12 +18,22 @@ headers = {
     "Accept": "application/vnd.github.v3+json"
 }
 
-# --- Telegram Alert Logic ---
+# --- Fetch GitHub Traffic Data ---
+def fetch(url):
+    res = requests.get(url, headers=headers)
+    res.raise_for_status()
+    return res.json()
+
+# Grab traffic data from GitHub
+data = {
+    "views": fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/views"),
+    "clones": fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/clones"),
+    "referrers": fetch(f"https://api.github.com/repos/{owner}/{repo}/traffic/popular/referrers")
+}
+
+# --- Telegram Alert Logic (safe and secure) ---
 min_clones = 3
 min_refs = 1
-
-# Later in your script (after data collection logic)
-# Make sure this is placed AFTER your data object has been defined
 
 if data["clones"]["uniques"] >= min_clones or len(data["referrers"]) >= min_refs:
     message = f"📈 StratX Alert:\\nViews: {data['views']['uniques']}, Clones: {data['clones']['uniques']}, Refs: {len(data['referrers'])}"
