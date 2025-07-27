@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 [![Global Report](https://img.shields.io/badge/StratX%20Execution-Full%20Audit%20Report-blue)](./docs/global-execution-report.md)
 [![Simulation Badge](https://img.shields.io/badge/🔁%2075,000_TX_Simulation-Favoring_Stellar_✓_0_False_Positives-brightgreen?style=flat-square)](./docs/routing_flexibility.md)
+[![Simulation Badge](https://img.shields.io/badge/🔁_75,000_TX_Simulation-Realistic_Fallback_✓_0_Errors-blueviolet?style=flat-square)](./proof/logs_batch_global_stellar_weighted_summary_verified)
 
 # StratX: Programmable Financial Infrastructure
 
