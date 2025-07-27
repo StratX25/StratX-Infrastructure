@@ -47,7 +47,7 @@ Even when Stellar is favored, XRP still captured nearly 1 in 3 completions. That
 
 ## Proof of Simulation
 
-📁 **[Download Simulation Proof Log (75,000 TX, Stellar-Weighted)](./proof/logs_batch_global_stellar_weighted_summary_verified.txt)**
+ **[Download Simulation Proof Log (75,000 TX, Stellar-Weighted)](./proof/logs_batch_global_stellar_weighted_summary_verified.txt)**
 
 - 75,000 transaction log
 - 3-hop fallback per TX
