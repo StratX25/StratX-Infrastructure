@@ -2,6 +2,7 @@
 ![Patent](https://img.shields.io/badge/Patent-Pending-orange)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 [![Global Report](https://img.shields.io/badge/StratX%20Execution-Full%20Audit%20Report-blue)](./docs/global-execution-report.md)
+![Simulation Badge](https://img.shields.io/badge/🔁%2075,000_TX_Simulation-Favoring_Stellar_✓_0_False_Positives-brightgreen?style=flat-square)
 
 # StratX: Programmable Financial Infrastructure
 
