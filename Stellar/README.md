@@ -1,4 +1,4 @@
-🚀 StratX vs Stellar Native – Simulation Breakdown
+# 🚀 StratX vs Stellar Native – Simulation Breakdown
 This simulation compares how Stellar performs under different configurations:
 
 Public Baseline – Real-world behavior of Stellar today
