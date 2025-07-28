@@ -1,0 +1,14 @@
+StratX Simulation Over Stellar
+
+This test simulates 75,000 operations routed through a StratX layer embedded on top of Stellar.
+
+Assumptions:
+- Operations are dynamically batched into transactions with 40–49 ops each.
+- Batching is optimized to minimize transaction count and reduce burn fees.
+- Fallback routing alternates between XLM, USDC, and EURC.
+- Compliance checks are simulated with a 'pass' flag.
+- Each transaction has a latency of ~75ms and a fee proportional to batch size.
+
+What the CSV shows:
+Each row is a transaction that contains multiple operations, with metadata like route used, latency, and total cost.  
+StratX uses Stellar’s batching feature to its full potential, reducing ~75,000 ledger writes to ~1,600–2,000 and lowering cost drastically.
