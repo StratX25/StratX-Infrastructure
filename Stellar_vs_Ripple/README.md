@@ -10,7 +10,6 @@ Our goal: Prove that if Stellar adopts StratX, it will surpass Ripple, and every
 
 - `ripple_baseline/`: Ripple's current infrastructure — 75,000 txs, no batching, no compliance, static rail.
 - `stellar_with_stratx/`: Same ops, batched, routed, compliant, fast — powered by StratX.
-- `charts/`: Visual side-by-side comparison.
 - `simulation_summary.txt`: Complete plain-English analysis of both systems.
 
 ---
@@ -47,4 +46,19 @@ If Stellar licenses StratX, the enitire global banking layer will shift
 ## 🔗 Resources
 
 - 📘 [Simulation Summary](./simulation_summary.txt)
+
+- ---
+
+## 🛡️ Intellectual Property Protection
+
+- No routing logic, filtering engine, or decision tree is present.
+- No algorithms, configurations, or internal StratX code included.
+- All behavior is simulated for comparative purposes only.
+- Any attempt to replicate this logic for commercial use may infringe U.S. patent protections.
+
+---
+
+## ⚠️ Disclaimer
+
+This simulation demonstrates what *could* be achieved using StratX as infrastructure. It does not expose, share, or embed any proprietary logic or strategic backend behavior.
   
