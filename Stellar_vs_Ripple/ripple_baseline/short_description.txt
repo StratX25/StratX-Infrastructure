@@ -1,0 +1,11 @@
+Ripple Baseline Simulation
+
+This simulation processes 75,000 transactions on the XRP Ledger (XRPL) using real-world assumptions:
+
+- Each transaction is submitted individually (1 operation per transaction).
+- No batching is performed; XRPL does not support native batching.
+- All routing occurs on the XRP chain only (no fallback options).
+- No jurisdictional compliance enforcement is simulated.
+- Fees and latency are modeled on current XRPL public network benchmarks.
+
+This reflects how XRP is used today for retail, enterprise, and liquidity applications such as RippleNet, ODL, and wallet-level transactions.
