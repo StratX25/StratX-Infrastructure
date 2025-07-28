@@ -22,17 +22,18 @@ jobs:
         run: pip install requests
 
       - name: ✅ Send Telegram verification message
-    working-directory: .github
-    run: python ping_bot.py
-    env:
-      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-    CHAT_ID: ${{ secrets.CHAT_ID }}
+        working-directory: .github
+        run: python ping_bot.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
 
       - name: 📊 Run engagement tracking
-  run: |
-    mkdir -p logs
-    python metrics_pull.py
-  env:
-    BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-    CHAT_ID: ${{ secrets.CHAT_ID }}
-    PATTY: ${{ secrets.GITHUB_PAT }}
+        working-directory: .github
+        run: |
+          mkdir -p logs
+          python metrics_pull.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          PATTY: ${{ secrets.GITHUB_PAT }}
