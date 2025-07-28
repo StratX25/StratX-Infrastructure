@@ -1,0 +1,15 @@
+StratX Simulation Over Stellar
+
+This test simulates 75,000 transactions routed through an abstracted StratX layer running on top of Stellar infrastructure.
+
+Assumptions:
+- Transactions are dynamically batched, averaging ~40–49 operations per transaction (simulated).
+- Programmable fallback routing rotates across XLM → USDC → EURC paths (static simulation).
+- Compliance checks are simulated with a fixed "pass" condition, not actual policy enforcement.
+- A reduced transaction latency (~75ms) and lower average fee (scaled per batched op) are assumed based on optimized routing behavior.
+
+What the CSV shows:
+Each row contains a transaction ID, fallback route used, latency, fee (based on ops per tx), and compliance status.
+
+This file represents what Stellar could achieve *with* StratX:  
+Smarter routing, lower cost per operation, jurisdictional flexibility, and readiness for institutional volume.
