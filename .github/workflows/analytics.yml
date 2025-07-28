@@ -29,10 +29,10 @@ jobs:
     CHAT_ID: ${{ secrets.CHAT_ID }}
 
       - name: 📊 Run engagement tracking
-        run: |
-          mkdir -p logs
-          python metrics_pull.py
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-          PATTY: ${{ secrets.GITHUB_PAT }}
+  run: |
+    mkdir -p logs
+    python metrics_pull.py
+  env:
+    BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+    CHAT_ID: ${{ secrets.CHAT_ID }}
+    PATTY: ${{ secrets.GITHUB_PAT }}
