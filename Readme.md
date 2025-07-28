@@ -10,15 +10,6 @@
 - 🌍 Routing simulations across 3+ major blockchain rails  
 - 🛡️ Compliance-first programmable infrastructure  
 
-🛠 StratX was designed by a non-engineer to challenge engineering assumptions.
-
-While you were optimizing for throughput, I was solving for sovereign routing control.
-
-No background. No formal training.
-Just a belief that protocol ownership is the future.
-
-You cloned it 410 times. Now let’s talk.
-
 # StratX: Programmable Financial Infrastructure
 
 **Invented by Abel Justin Oliveira**  
