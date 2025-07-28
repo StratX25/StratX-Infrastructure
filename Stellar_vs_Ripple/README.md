@@ -2,7 +2,11 @@
 
 This folder contains direct simulations comparing Ripple's XRPL system against a StratX-enhanced Stellar network.
 
-Our goal: Prove that if Stellar adopts StratX, it will surpass Ripple, and every other fintech, in every critical area — and never look back.
+> ⚠️ This simulation was produced in response to an external inquiry comparing Stellar's potential against XRPL under modern programmable infrastructure. The results speak for themselves.
+
+We encourage all of those reviewing this to consider the systemic advantages enabled by StratX when layered on existing rails.
+
+Our goal: To prove that if Stellar adopts StratX, it will surpass Ripple, and every other fintech, in every critical area — and never look back.
 
 ---
 
