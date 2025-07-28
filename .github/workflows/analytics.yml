@@ -23,7 +23,7 @@ jobs:
 
       - name: ✅ Send Telegram verification message
         run: python ping_bot.py
- working-directory: .github
+        working-directory: .github
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
