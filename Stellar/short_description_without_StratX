@@ -1,0 +1,13 @@
+Public Baseline Simulation
+
+This test simulates 75,000 transactions using Stellar's native capabilities without any enhancements from StratX.
+
+Assumptions:
+- Each transaction uses only one operation (1:1 tx:op ratio), as is typical of Stellar’s basic wallet behavior.
+- No fallback route is used — each transfer is direct and static.
+- No compliance checks are simulated — this represents open, default routing.
+- A flat transaction latency of ~120ms and a fee of 0.00001 XLM were assumed based on standard public documentation of Stellar's performance.
+
+What the CSV shows:
+Each row is a single transaction with its ID, number of operations, assumed latency, and fee burned.  
+This file represents what Stellar achieves *without* StratX — limited batching, static routing, and no automation.
