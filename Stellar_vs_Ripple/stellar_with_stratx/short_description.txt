@@ -1,0 +1,14 @@
+StratX Simulation on Stellar 
+
+This simulation runs 75,000 operations on Stellar, optimized by StratX for maximum throughput, compliance, and fee efficiency.
+
+Key features:
+- Operations are dynamically batched into 40–49 ops per transaction.
+- Multi-rail fallback routing is applied when justified: including XLM, USDC, EURC, BTC, and stablecoin intermediaries.
+- StratX routes around latency, risk, or jurisdictional blocks to maintain compliance.
+- Every transaction is marked with an abstracted compliance pass.
+- Transaction latency and fees are reduced using optimal batch sizes and faster rails.
+
+What the CSV shows:
+Each row represents a transaction containing many ops with routing, fee, and compliance metadata.  
+StratX cuts total ledger writes from 75,000 to under 2,000, drops fees to near-zero, and proves that a smart layer makes Stellar ready for global institutional infrastructure.
