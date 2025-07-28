@@ -1,0 +1,1687 @@
+tx_id,ops_count,route_used,latency_ms,fee_xlm,compliance_passed
+stratx_tx_0,40,XLM,45,6e-05,True
+stratx_tx_1,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_2,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_3,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_4,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_5,45,XLM,45,6.75e-05,True
+stratx_tx_6,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_7,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_8,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_9,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_10,40,XLM,45,6e-05,True
+stratx_tx_11,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_12,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_13,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_14,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_15,45,XLM,45,6.75e-05,True
+stratx_tx_16,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_17,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_18,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_19,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_20,40,XLM,45,6e-05,True
+stratx_tx_21,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_22,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_23,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_24,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_25,45,XLM,45,6.75e-05,True
+stratx_tx_26,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_27,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_28,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_29,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_30,40,XLM,45,6e-05,True
+stratx_tx_31,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_32,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_33,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_34,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_35,45,XLM,45,6.75e-05,True
+stratx_tx_36,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_37,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_38,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_39,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_40,40,XLM,45,6e-05,True
+stratx_tx_41,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_42,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_43,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_44,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_45,45,XLM,45,6.75e-05,True
+stratx_tx_46,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_47,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_48,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_49,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_50,40,XLM,45,6e-05,True
+stratx_tx_51,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_52,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_53,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_54,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_55,45,XLM,45,6.75e-05,True
+stratx_tx_56,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_57,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_58,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_59,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_60,40,XLM,45,6e-05,True
+stratx_tx_61,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_62,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_63,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_64,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_65,45,XLM,45,6.75e-05,True
+stratx_tx_66,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_67,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_68,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_69,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_70,40,XLM,45,6e-05,True
+stratx_tx_71,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_72,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_73,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_74,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_75,45,XLM,45,6.75e-05,True
+stratx_tx_76,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_77,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_78,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_79,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_80,40,XLM,45,6e-05,True
+stratx_tx_81,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_82,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_83,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_84,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_85,45,XLM,45,6.75e-05,True
+stratx_tx_86,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_87,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_88,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_89,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_90,40,XLM,45,6e-05,True
+stratx_tx_91,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_92,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_93,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_94,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_95,45,XLM,45,6.75e-05,True
+stratx_tx_96,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_97,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_98,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_99,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_100,40,XLM,45,6e-05,True
+stratx_tx_101,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_102,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_103,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_104,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_105,45,XLM,45,6.75e-05,True
+stratx_tx_106,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_107,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_108,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_109,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_110,40,XLM,45,6e-05,True
+stratx_tx_111,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_112,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_113,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_114,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_115,45,XLM,45,6.75e-05,True
+stratx_tx_116,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_117,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_118,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_119,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_120,40,XLM,45,6e-05,True
+stratx_tx_121,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_122,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_123,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_124,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_125,45,XLM,45,6.75e-05,True
+stratx_tx_126,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_127,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_128,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_129,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_130,40,XLM,45,6e-05,True
+stratx_tx_131,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_132,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_133,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_134,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_135,45,XLM,45,6.75e-05,True
+stratx_tx_136,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_137,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_138,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_139,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_140,40,XLM,45,6e-05,True
+stratx_tx_141,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_142,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_143,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_144,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_145,45,XLM,45,6.75e-05,True
+stratx_tx_146,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_147,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_148,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_149,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_150,40,XLM,45,6e-05,True
+stratx_tx_151,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_152,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_153,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_154,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_155,45,XLM,45,6.75e-05,True
+stratx_tx_156,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_157,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_158,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_159,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_160,40,XLM,45,6e-05,True
+stratx_tx_161,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_162,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_163,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_164,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_165,45,XLM,45,6.75e-05,True
+stratx_tx_166,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_167,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_168,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_169,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_170,40,XLM,45,6e-05,True
+stratx_tx_171,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_172,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_173,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_174,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_175,45,XLM,45,6.75e-05,True
+stratx_tx_176,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_177,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_178,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_179,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_180,40,XLM,45,6e-05,True
+stratx_tx_181,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_182,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_183,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_184,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_185,45,XLM,45,6.75e-05,True
+stratx_tx_186,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_187,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_188,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_189,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_190,40,XLM,45,6e-05,True
+stratx_tx_191,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_192,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_193,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_194,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_195,45,XLM,45,6.75e-05,True
+stratx_tx_196,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_197,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_198,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_199,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_200,40,XLM,45,6e-05,True
+stratx_tx_201,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_202,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_203,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_204,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_205,45,XLM,45,6.75e-05,True
+stratx_tx_206,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_207,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_208,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_209,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_210,40,XLM,45,6e-05,True
+stratx_tx_211,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_212,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_213,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_214,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_215,45,XLM,45,6.75e-05,True
+stratx_tx_216,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_217,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_218,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_219,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_220,40,XLM,45,6e-05,True
+stratx_tx_221,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_222,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_223,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_224,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_225,45,XLM,45,6.75e-05,True
+stratx_tx_226,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_227,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_228,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_229,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_230,40,XLM,45,6e-05,True
+stratx_tx_231,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_232,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_233,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_234,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_235,45,XLM,45,6.75e-05,True
+stratx_tx_236,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_237,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_238,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_239,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_240,40,XLM,45,6e-05,True
+stratx_tx_241,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_242,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_243,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_244,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_245,45,XLM,45,6.75e-05,True
+stratx_tx_246,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_247,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_248,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_249,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_250,40,XLM,45,6e-05,True
+stratx_tx_251,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_252,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_253,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_254,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_255,45,XLM,45,6.75e-05,True
+stratx_tx_256,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_257,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_258,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_259,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_260,40,XLM,45,6e-05,True
+stratx_tx_261,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_262,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_263,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_264,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_265,45,XLM,45,6.75e-05,True
+stratx_tx_266,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_267,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_268,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_269,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_270,40,XLM,45,6e-05,True
+stratx_tx_271,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_272,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_273,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_274,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_275,45,XLM,45,6.75e-05,True
+stratx_tx_276,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_277,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_278,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_279,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_280,40,XLM,45,6e-05,True
+stratx_tx_281,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_282,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_283,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_284,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_285,45,XLM,45,6.75e-05,True
+stratx_tx_286,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_287,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_288,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_289,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_290,40,XLM,45,6e-05,True
+stratx_tx_291,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_292,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_293,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_294,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_295,45,XLM,45,6.75e-05,True
+stratx_tx_296,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_297,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_298,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_299,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_300,40,XLM,45,6e-05,True
+stratx_tx_301,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_302,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_303,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_304,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_305,45,XLM,45,6.75e-05,True
+stratx_tx_306,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_307,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_308,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_309,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_310,40,XLM,45,6e-05,True
+stratx_tx_311,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_312,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_313,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_314,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_315,45,XLM,45,6.75e-05,True
+stratx_tx_316,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_317,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_318,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_319,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_320,40,XLM,45,6e-05,True
+stratx_tx_321,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_322,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_323,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_324,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_325,45,XLM,45,6.75e-05,True
+stratx_tx_326,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_327,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_328,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_329,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_330,40,XLM,45,6e-05,True
+stratx_tx_331,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_332,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_333,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_334,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_335,45,XLM,45,6.75e-05,True
+stratx_tx_336,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_337,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_338,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_339,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_340,40,XLM,45,6e-05,True
+stratx_tx_341,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_342,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_343,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_344,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_345,45,XLM,45,6.75e-05,True
+stratx_tx_346,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_347,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_348,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_349,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_350,40,XLM,45,6e-05,True
+stratx_tx_351,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_352,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_353,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_354,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_355,45,XLM,45,6.75e-05,True
+stratx_tx_356,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_357,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_358,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_359,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_360,40,XLM,45,6e-05,True
+stratx_tx_361,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_362,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_363,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_364,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_365,45,XLM,45,6.75e-05,True
+stratx_tx_366,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_367,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_368,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_369,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_370,40,XLM,45,6e-05,True
+stratx_tx_371,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_372,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_373,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_374,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_375,45,XLM,45,6.75e-05,True
+stratx_tx_376,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_377,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_378,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_379,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_380,40,XLM,45,6e-05,True
+stratx_tx_381,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_382,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_383,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_384,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_385,45,XLM,45,6.75e-05,True
+stratx_tx_386,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_387,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_388,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_389,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_390,40,XLM,45,6e-05,True
+stratx_tx_391,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_392,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_393,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_394,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_395,45,XLM,45,6.75e-05,True
+stratx_tx_396,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_397,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_398,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_399,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_400,40,XLM,45,6e-05,True
+stratx_tx_401,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_402,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_403,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_404,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_405,45,XLM,45,6.75e-05,True
+stratx_tx_406,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_407,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_408,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_409,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_410,40,XLM,45,6e-05,True
+stratx_tx_411,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_412,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_413,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_414,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_415,45,XLM,45,6.75e-05,True
+stratx_tx_416,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_417,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_418,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_419,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_420,40,XLM,45,6e-05,True
+stratx_tx_421,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_422,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_423,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_424,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_425,45,XLM,45,6.75e-05,True
+stratx_tx_426,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_427,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_428,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_429,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_430,40,XLM,45,6e-05,True
+stratx_tx_431,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_432,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_433,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_434,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_435,45,XLM,45,6.75e-05,True
+stratx_tx_436,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_437,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_438,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_439,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_440,40,XLM,45,6e-05,True
+stratx_tx_441,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_442,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_443,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_444,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_445,45,XLM,45,6.75e-05,True
+stratx_tx_446,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_447,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_448,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_449,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_450,40,XLM,45,6e-05,True
+stratx_tx_451,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_452,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_453,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_454,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_455,45,XLM,45,6.75e-05,True
+stratx_tx_456,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_457,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_458,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_459,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_460,40,XLM,45,6e-05,True
+stratx_tx_461,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_462,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_463,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_464,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_465,45,XLM,45,6.75e-05,True
+stratx_tx_466,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_467,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_468,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_469,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_470,40,XLM,45,6e-05,True
+stratx_tx_471,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_472,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_473,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_474,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_475,45,XLM,45,6.75e-05,True
+stratx_tx_476,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_477,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_478,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_479,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_480,40,XLM,45,6e-05,True
+stratx_tx_481,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_482,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_483,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_484,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_485,45,XLM,45,6.75e-05,True
+stratx_tx_486,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_487,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_488,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_489,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_490,40,XLM,45,6e-05,True
+stratx_tx_491,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_492,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_493,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_494,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_495,45,XLM,45,6.75e-05,True
+stratx_tx_496,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_497,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_498,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_499,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_500,40,XLM,45,6e-05,True
+stratx_tx_501,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_502,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_503,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_504,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_505,45,XLM,45,6.75e-05,True
+stratx_tx_506,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_507,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_508,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_509,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_510,40,XLM,45,6e-05,True
+stratx_tx_511,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_512,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_513,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_514,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_515,45,XLM,45,6.75e-05,True
+stratx_tx_516,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_517,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_518,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_519,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_520,40,XLM,45,6e-05,True
+stratx_tx_521,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_522,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_523,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_524,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_525,45,XLM,45,6.75e-05,True
+stratx_tx_526,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_527,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_528,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_529,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_530,40,XLM,45,6e-05,True
+stratx_tx_531,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_532,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_533,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_534,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_535,45,XLM,45,6.75e-05,True
+stratx_tx_536,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_537,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_538,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_539,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_540,40,XLM,45,6e-05,True
+stratx_tx_541,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_542,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_543,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_544,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_545,45,XLM,45,6.75e-05,True
+stratx_tx_546,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_547,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_548,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_549,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_550,40,XLM,45,6e-05,True
+stratx_tx_551,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_552,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_553,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_554,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_555,45,XLM,45,6.75e-05,True
+stratx_tx_556,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_557,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_558,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_559,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_560,40,XLM,45,6e-05,True
+stratx_tx_561,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_562,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_563,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_564,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_565,45,XLM,45,6.75e-05,True
+stratx_tx_566,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_567,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_568,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_569,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_570,40,XLM,45,6e-05,True
+stratx_tx_571,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_572,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_573,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_574,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_575,45,XLM,45,6.75e-05,True
+stratx_tx_576,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_577,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_578,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_579,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_580,40,XLM,45,6e-05,True
+stratx_tx_581,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_582,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_583,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_584,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_585,45,XLM,45,6.75e-05,True
+stratx_tx_586,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_587,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_588,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_589,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_590,40,XLM,45,6e-05,True
+stratx_tx_591,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_592,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_593,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_594,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_595,45,XLM,45,6.75e-05,True
+stratx_tx_596,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_597,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_598,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_599,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_600,40,XLM,45,6e-05,True
+stratx_tx_601,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_602,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_603,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_604,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_605,45,XLM,45,6.75e-05,True
+stratx_tx_606,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_607,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_608,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_609,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_610,40,XLM,45,6e-05,True
+stratx_tx_611,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_612,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_613,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_614,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_615,45,XLM,45,6.75e-05,True
+stratx_tx_616,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_617,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_618,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_619,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_620,40,XLM,45,6e-05,True
+stratx_tx_621,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_622,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_623,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_624,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_625,45,XLM,45,6.75e-05,True
+stratx_tx_626,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_627,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_628,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_629,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_630,40,XLM,45,6e-05,True
+stratx_tx_631,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_632,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_633,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_634,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_635,45,XLM,45,6.75e-05,True
+stratx_tx_636,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_637,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_638,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_639,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_640,40,XLM,45,6e-05,True
+stratx_tx_641,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_642,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_643,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_644,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_645,45,XLM,45,6.75e-05,True
+stratx_tx_646,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_647,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_648,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_649,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_650,40,XLM,45,6e-05,True
+stratx_tx_651,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_652,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_653,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_654,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_655,45,XLM,45,6.75e-05,True
+stratx_tx_656,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_657,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_658,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_659,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_660,40,XLM,45,6e-05,True
+stratx_tx_661,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_662,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_663,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_664,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_665,45,XLM,45,6.75e-05,True
+stratx_tx_666,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_667,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_668,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_669,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_670,40,XLM,45,6e-05,True
+stratx_tx_671,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_672,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_673,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_674,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_675,45,XLM,45,6.75e-05,True
+stratx_tx_676,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_677,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_678,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_679,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_680,40,XLM,45,6e-05,True
+stratx_tx_681,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_682,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_683,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_684,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_685,45,XLM,45,6.75e-05,True
+stratx_tx_686,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_687,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_688,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_689,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_690,40,XLM,45,6e-05,True
+stratx_tx_691,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_692,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_693,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_694,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_695,45,XLM,45,6.75e-05,True
+stratx_tx_696,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_697,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_698,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_699,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_700,40,XLM,45,6e-05,True
+stratx_tx_701,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_702,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_703,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_704,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_705,45,XLM,45,6.75e-05,True
+stratx_tx_706,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_707,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_708,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_709,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_710,40,XLM,45,6e-05,True
+stratx_tx_711,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_712,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_713,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_714,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_715,45,XLM,45,6.75e-05,True
+stratx_tx_716,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_717,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_718,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_719,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_720,40,XLM,45,6e-05,True
+stratx_tx_721,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_722,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_723,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_724,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_725,45,XLM,45,6.75e-05,True
+stratx_tx_726,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_727,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_728,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_729,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_730,40,XLM,45,6e-05,True
+stratx_tx_731,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_732,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_733,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_734,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_735,45,XLM,45,6.75e-05,True
+stratx_tx_736,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_737,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_738,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_739,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_740,40,XLM,45,6e-05,True
+stratx_tx_741,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_742,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_743,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_744,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_745,45,XLM,45,6.75e-05,True
+stratx_tx_746,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_747,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_748,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_749,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_750,40,XLM,45,6e-05,True
+stratx_tx_751,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_752,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_753,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_754,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_755,45,XLM,45,6.75e-05,True
+stratx_tx_756,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_757,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_758,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_759,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_760,40,XLM,45,6e-05,True
+stratx_tx_761,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_762,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_763,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_764,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_765,45,XLM,45,6.75e-05,True
+stratx_tx_766,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_767,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_768,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_769,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_770,40,XLM,45,6e-05,True
+stratx_tx_771,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_772,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_773,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_774,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_775,45,XLM,45,6.75e-05,True
+stratx_tx_776,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_777,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_778,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_779,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_780,40,XLM,45,6e-05,True
+stratx_tx_781,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_782,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_783,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_784,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_785,45,XLM,45,6.75e-05,True
+stratx_tx_786,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_787,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_788,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_789,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_790,40,XLM,45,6e-05,True
+stratx_tx_791,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_792,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_793,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_794,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_795,45,XLM,45,6.75e-05,True
+stratx_tx_796,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_797,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_798,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_799,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_800,40,XLM,45,6e-05,True
+stratx_tx_801,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_802,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_803,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_804,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_805,45,XLM,45,6.75e-05,True
+stratx_tx_806,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_807,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_808,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_809,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_810,40,XLM,45,6e-05,True
+stratx_tx_811,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_812,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_813,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_814,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_815,45,XLM,45,6.75e-05,True
+stratx_tx_816,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_817,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_818,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_819,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_820,40,XLM,45,6e-05,True
+stratx_tx_821,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_822,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_823,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_824,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_825,45,XLM,45,6.75e-05,True
+stratx_tx_826,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_827,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_828,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_829,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_830,40,XLM,45,6e-05,True
+stratx_tx_831,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_832,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_833,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_834,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_835,45,XLM,45,6.75e-05,True
+stratx_tx_836,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_837,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_838,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_839,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_840,40,XLM,45,6e-05,True
+stratx_tx_841,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_842,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_843,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_844,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_845,45,XLM,45,6.75e-05,True
+stratx_tx_846,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_847,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_848,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_849,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_850,40,XLM,45,6e-05,True
+stratx_tx_851,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_852,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_853,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_854,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_855,45,XLM,45,6.75e-05,True
+stratx_tx_856,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_857,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_858,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_859,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_860,40,XLM,45,6e-05,True
+stratx_tx_861,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_862,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_863,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_864,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_865,45,XLM,45,6.75e-05,True
+stratx_tx_866,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_867,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_868,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_869,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_870,40,XLM,45,6e-05,True
+stratx_tx_871,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_872,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_873,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_874,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_875,45,XLM,45,6.75e-05,True
+stratx_tx_876,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_877,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_878,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_879,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_880,40,XLM,45,6e-05,True
+stratx_tx_881,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_882,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_883,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_884,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_885,45,XLM,45,6.75e-05,True
+stratx_tx_886,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_887,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_888,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_889,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_890,40,XLM,45,6e-05,True
+stratx_tx_891,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_892,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_893,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_894,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_895,45,XLM,45,6.75e-05,True
+stratx_tx_896,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_897,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_898,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_899,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_900,40,XLM,45,6e-05,True
+stratx_tx_901,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_902,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_903,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_904,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_905,45,XLM,45,6.75e-05,True
+stratx_tx_906,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_907,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_908,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_909,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_910,40,XLM,45,6e-05,True
+stratx_tx_911,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_912,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_913,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_914,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_915,45,XLM,45,6.75e-05,True
+stratx_tx_916,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_917,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_918,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_919,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_920,40,XLM,45,6e-05,True
+stratx_tx_921,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_922,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_923,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_924,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_925,45,XLM,45,6.75e-05,True
+stratx_tx_926,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_927,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_928,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_929,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_930,40,XLM,45,6e-05,True
+stratx_tx_931,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_932,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_933,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_934,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_935,45,XLM,45,6.75e-05,True
+stratx_tx_936,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_937,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_938,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_939,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_940,40,XLM,45,6e-05,True
+stratx_tx_941,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_942,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_943,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_944,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_945,45,XLM,45,6.75e-05,True
+stratx_tx_946,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_947,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_948,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_949,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_950,40,XLM,45,6e-05,True
+stratx_tx_951,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_952,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_953,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_954,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_955,45,XLM,45,6.75e-05,True
+stratx_tx_956,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_957,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_958,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_959,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_960,40,XLM,45,6e-05,True
+stratx_tx_961,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_962,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_963,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_964,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_965,45,XLM,45,6.75e-05,True
+stratx_tx_966,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_967,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_968,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_969,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_970,40,XLM,45,6e-05,True
+stratx_tx_971,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_972,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_973,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_974,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_975,45,XLM,45,6.75e-05,True
+stratx_tx_976,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_977,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_978,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_979,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_980,40,XLM,45,6e-05,True
+stratx_tx_981,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_982,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_983,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_984,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_985,45,XLM,45,6.75e-05,True
+stratx_tx_986,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_987,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_988,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_989,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_990,40,XLM,45,6e-05,True
+stratx_tx_991,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_992,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_993,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_994,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_995,45,XLM,45,6.75e-05,True
+stratx_tx_996,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_997,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_998,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_999,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1000,40,XLM,45,6e-05,True
+stratx_tx_1001,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1002,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1003,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1004,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1005,45,XLM,45,6.75e-05,True
+stratx_tx_1006,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1007,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1008,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1009,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1010,40,XLM,45,6e-05,True
+stratx_tx_1011,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1012,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1013,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1014,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1015,45,XLM,45,6.75e-05,True
+stratx_tx_1016,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1017,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1018,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1019,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1020,40,XLM,45,6e-05,True
+stratx_tx_1021,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1022,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1023,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1024,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1025,45,XLM,45,6.75e-05,True
+stratx_tx_1026,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1027,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1028,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1029,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1030,40,XLM,45,6e-05,True
+stratx_tx_1031,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1032,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1033,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1034,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1035,45,XLM,45,6.75e-05,True
+stratx_tx_1036,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1037,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1038,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1039,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1040,40,XLM,45,6e-05,True
+stratx_tx_1041,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1042,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1043,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1044,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1045,45,XLM,45,6.75e-05,True
+stratx_tx_1046,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1047,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1048,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1049,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1050,40,XLM,45,6e-05,True
+stratx_tx_1051,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1052,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1053,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1054,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1055,45,XLM,45,6.75e-05,True
+stratx_tx_1056,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1057,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1058,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1059,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1060,40,XLM,45,6e-05,True
+stratx_tx_1061,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1062,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1063,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1064,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1065,45,XLM,45,6.75e-05,True
+stratx_tx_1066,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1067,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1068,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1069,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1070,40,XLM,45,6e-05,True
+stratx_tx_1071,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1072,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1073,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1074,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1075,45,XLM,45,6.75e-05,True
+stratx_tx_1076,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1077,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1078,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1079,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1080,40,XLM,45,6e-05,True
+stratx_tx_1081,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1082,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1083,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1084,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1085,45,XLM,45,6.75e-05,True
+stratx_tx_1086,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1087,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1088,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1089,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1090,40,XLM,45,6e-05,True
+stratx_tx_1091,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1092,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1093,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1094,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1095,45,XLM,45,6.75e-05,True
+stratx_tx_1096,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1097,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1098,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1099,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1100,40,XLM,45,6e-05,True
+stratx_tx_1101,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1102,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1103,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1104,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1105,45,XLM,45,6.75e-05,True
+stratx_tx_1106,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1107,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1108,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1109,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1110,40,XLM,45,6e-05,True
+stratx_tx_1111,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1112,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1113,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1114,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1115,45,XLM,45,6.75e-05,True
+stratx_tx_1116,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1117,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1118,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1119,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1120,40,XLM,45,6e-05,True
+stratx_tx_1121,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1122,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1123,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1124,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1125,45,XLM,45,6.75e-05,True
+stratx_tx_1126,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1127,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1128,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1129,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1130,40,XLM,45,6e-05,True
+stratx_tx_1131,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1132,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1133,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1134,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1135,45,XLM,45,6.75e-05,True
+stratx_tx_1136,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1137,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1138,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1139,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1140,40,XLM,45,6e-05,True
+stratx_tx_1141,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1142,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1143,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1144,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1145,45,XLM,45,6.75e-05,True
+stratx_tx_1146,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1147,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1148,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1149,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1150,40,XLM,45,6e-05,True
+stratx_tx_1151,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1152,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1153,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1154,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1155,45,XLM,45,6.75e-05,True
+stratx_tx_1156,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1157,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1158,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1159,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1160,40,XLM,45,6e-05,True
+stratx_tx_1161,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1162,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1163,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1164,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1165,45,XLM,45,6.75e-05,True
+stratx_tx_1166,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1167,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1168,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1169,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1170,40,XLM,45,6e-05,True
+stratx_tx_1171,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1172,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1173,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1174,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1175,45,XLM,45,6.75e-05,True
+stratx_tx_1176,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1177,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1178,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1179,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1180,40,XLM,45,6e-05,True
+stratx_tx_1181,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1182,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1183,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1184,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1185,45,XLM,45,6.75e-05,True
+stratx_tx_1186,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1187,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1188,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1189,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1190,40,XLM,45,6e-05,True
+stratx_tx_1191,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1192,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1193,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1194,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1195,45,XLM,45,6.75e-05,True
+stratx_tx_1196,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1197,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1198,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1199,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1200,40,XLM,45,6e-05,True
+stratx_tx_1201,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1202,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1203,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1204,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1205,45,XLM,45,6.75e-05,True
+stratx_tx_1206,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1207,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1208,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1209,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1210,40,XLM,45,6e-05,True
+stratx_tx_1211,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1212,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1213,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1214,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1215,45,XLM,45,6.75e-05,True
+stratx_tx_1216,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1217,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1218,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1219,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1220,40,XLM,45,6e-05,True
+stratx_tx_1221,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1222,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1223,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1224,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1225,45,XLM,45,6.75e-05,True
+stratx_tx_1226,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1227,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1228,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1229,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1230,40,XLM,45,6e-05,True
+stratx_tx_1231,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1232,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1233,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1234,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1235,45,XLM,45,6.75e-05,True
+stratx_tx_1236,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1237,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1238,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1239,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1240,40,XLM,45,6e-05,True
+stratx_tx_1241,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1242,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1243,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1244,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1245,45,XLM,45,6.75e-05,True
+stratx_tx_1246,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1247,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1248,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1249,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1250,40,XLM,45,6e-05,True
+stratx_tx_1251,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1252,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1253,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1254,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1255,45,XLM,45,6.75e-05,True
+stratx_tx_1256,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1257,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1258,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1259,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1260,40,XLM,45,6e-05,True
+stratx_tx_1261,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1262,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1263,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1264,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1265,45,XLM,45,6.75e-05,True
+stratx_tx_1266,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1267,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1268,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1269,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1270,40,XLM,45,6e-05,True
+stratx_tx_1271,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1272,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1273,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1274,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1275,45,XLM,45,6.75e-05,True
+stratx_tx_1276,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1277,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1278,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1279,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1280,40,XLM,45,6e-05,True
+stratx_tx_1281,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1282,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1283,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1284,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1285,45,XLM,45,6.75e-05,True
+stratx_tx_1286,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1287,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1288,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1289,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1290,40,XLM,45,6e-05,True
+stratx_tx_1291,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1292,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1293,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1294,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1295,45,XLM,45,6.75e-05,True
+stratx_tx_1296,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1297,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1298,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1299,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1300,40,XLM,45,6e-05,True
+stratx_tx_1301,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1302,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1303,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1304,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1305,45,XLM,45,6.75e-05,True
+stratx_tx_1306,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1307,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1308,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1309,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1310,40,XLM,45,6e-05,True
+stratx_tx_1311,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1312,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1313,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1314,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1315,45,XLM,45,6.75e-05,True
+stratx_tx_1316,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1317,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1318,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1319,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1320,40,XLM,45,6e-05,True
+stratx_tx_1321,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1322,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1323,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1324,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1325,45,XLM,45,6.75e-05,True
+stratx_tx_1326,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1327,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1328,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1329,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1330,40,XLM,45,6e-05,True
+stratx_tx_1331,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1332,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1333,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1334,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1335,45,XLM,45,6.75e-05,True
+stratx_tx_1336,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1337,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1338,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1339,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1340,40,XLM,45,6e-05,True
+stratx_tx_1341,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1342,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1343,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1344,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1345,45,XLM,45,6.75e-05,True
+stratx_tx_1346,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1347,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1348,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1349,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1350,40,XLM,45,6e-05,True
+stratx_tx_1351,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1352,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1353,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1354,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1355,45,XLM,45,6.75e-05,True
+stratx_tx_1356,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1357,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1358,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1359,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1360,40,XLM,45,6e-05,True
+stratx_tx_1361,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1362,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1363,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1364,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1365,45,XLM,45,6.75e-05,True
+stratx_tx_1366,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1367,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1368,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1369,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1370,40,XLM,45,6e-05,True
+stratx_tx_1371,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1372,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1373,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1374,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1375,45,XLM,45,6.75e-05,True
+stratx_tx_1376,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1377,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1378,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1379,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1380,40,XLM,45,6e-05,True
+stratx_tx_1381,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1382,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1383,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1384,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1385,45,XLM,45,6.75e-05,True
+stratx_tx_1386,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1387,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1388,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1389,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1390,40,XLM,45,6e-05,True
+stratx_tx_1391,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1392,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1393,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1394,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1395,45,XLM,45,6.75e-05,True
+stratx_tx_1396,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1397,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1398,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1399,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1400,40,XLM,45,6e-05,True
+stratx_tx_1401,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1402,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1403,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1404,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1405,45,XLM,45,6.75e-05,True
+stratx_tx_1406,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1407,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1408,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1409,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1410,40,XLM,45,6e-05,True
+stratx_tx_1411,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1412,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1413,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1414,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1415,45,XLM,45,6.75e-05,True
+stratx_tx_1416,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1417,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1418,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1419,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1420,40,XLM,45,6e-05,True
+stratx_tx_1421,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1422,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1423,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1424,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1425,45,XLM,45,6.75e-05,True
+stratx_tx_1426,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1427,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1428,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1429,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1430,40,XLM,45,6e-05,True
+stratx_tx_1431,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1432,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1433,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1434,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1435,45,XLM,45,6.75e-05,True
+stratx_tx_1436,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1437,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1438,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1439,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1440,40,XLM,45,6e-05,True
+stratx_tx_1441,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1442,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1443,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1444,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1445,45,XLM,45,6.75e-05,True
+stratx_tx_1446,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1447,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1448,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1449,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1450,40,XLM,45,6e-05,True
+stratx_tx_1451,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1452,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1453,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1454,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1455,45,XLM,45,6.75e-05,True
+stratx_tx_1456,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1457,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1458,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1459,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1460,40,XLM,45,6e-05,True
+stratx_tx_1461,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1462,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1463,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1464,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1465,45,XLM,45,6.75e-05,True
+stratx_tx_1466,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1467,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1468,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1469,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1470,40,XLM,45,6e-05,True
+stratx_tx_1471,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1472,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1473,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1474,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1475,45,XLM,45,6.75e-05,True
+stratx_tx_1476,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1477,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1478,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1479,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1480,40,XLM,45,6e-05,True
+stratx_tx_1481,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1482,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1483,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1484,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1485,45,XLM,45,6.75e-05,True
+stratx_tx_1486,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1487,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1488,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1489,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1490,40,XLM,45,6e-05,True
+stratx_tx_1491,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1492,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1493,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1494,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1495,45,XLM,45,6.75e-05,True
+stratx_tx_1496,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1497,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1498,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1499,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1500,40,XLM,45,6e-05,True
+stratx_tx_1501,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1502,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1503,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1504,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1505,45,XLM,45,6.75e-05,True
+stratx_tx_1506,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1507,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1508,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1509,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1510,40,XLM,45,6e-05,True
+stratx_tx_1511,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1512,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1513,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1514,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1515,45,XLM,45,6.75e-05,True
+stratx_tx_1516,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1517,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1518,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1519,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1520,40,XLM,45,6e-05,True
+stratx_tx_1521,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1522,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1523,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1524,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1525,45,XLM,45,6.75e-05,True
+stratx_tx_1526,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1527,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1528,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1529,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1530,40,XLM,45,6e-05,True
+stratx_tx_1531,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1532,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1533,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1534,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1535,45,XLM,45,6.75e-05,True
+stratx_tx_1536,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1537,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1538,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1539,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1540,40,XLM,45,6e-05,True
+stratx_tx_1541,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1542,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1543,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1544,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1545,45,XLM,45,6.75e-05,True
+stratx_tx_1546,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1547,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1548,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1549,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1550,40,XLM,45,6e-05,True
+stratx_tx_1551,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1552,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1553,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1554,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1555,45,XLM,45,6.75e-05,True
+stratx_tx_1556,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1557,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1558,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1559,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1560,40,XLM,45,6e-05,True
+stratx_tx_1561,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1562,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1563,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1564,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1565,45,XLM,45,6.75e-05,True
+stratx_tx_1566,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1567,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1568,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1569,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1570,40,XLM,45,6e-05,True
+stratx_tx_1571,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1572,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1573,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1574,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1575,45,XLM,45,6.75e-05,True
+stratx_tx_1576,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1577,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1578,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1579,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1580,40,XLM,45,6e-05,True
+stratx_tx_1581,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1582,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1583,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1584,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1585,45,XLM,45,6.75e-05,True
+stratx_tx_1586,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1587,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1588,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1589,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1590,40,XLM,45,6e-05,True
+stratx_tx_1591,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1592,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1593,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1594,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1595,45,XLM,45,6.75e-05,True
+stratx_tx_1596,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1597,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1598,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1599,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1600,40,XLM,45,6e-05,True
+stratx_tx_1601,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1602,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1603,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1604,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1605,45,XLM,45,6.75e-05,True
+stratx_tx_1606,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1607,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1608,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1609,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1610,40,XLM,45,6e-05,True
+stratx_tx_1611,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1612,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1613,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1614,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1615,45,XLM,45,6.75e-05,True
+stratx_tx_1616,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1617,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1618,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1619,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1620,40,XLM,45,6e-05,True
+stratx_tx_1621,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1622,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1623,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1624,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1625,45,XLM,45,6.75e-05,True
+stratx_tx_1626,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1627,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1628,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1629,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1630,40,XLM,45,6e-05,True
+stratx_tx_1631,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1632,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1633,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1634,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1635,45,XLM,45,6.75e-05,True
+stratx_tx_1636,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1637,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1638,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1639,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1640,40,XLM,45,6e-05,True
+stratx_tx_1641,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1642,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1643,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1644,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1645,45,XLM,45,6.75e-05,True
+stratx_tx_1646,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1647,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1648,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1649,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1650,40,XLM,45,6e-05,True
+stratx_tx_1651,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1652,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1653,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1654,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1655,45,XLM,45,6.75e-05,True
+stratx_tx_1656,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1657,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1658,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1659,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1660,40,XLM,45,6e-05,True
+stratx_tx_1661,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1662,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1663,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1664,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1665,45,XLM,45,6.75e-05,True
+stratx_tx_1666,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1667,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1668,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1669,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1670,40,XLM,45,6e-05,True
+stratx_tx_1671,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1672,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1673,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1674,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1675,45,XLM,45,6.75e-05,True
+stratx_tx_1676,46,XLM → USDC,60,6.9e-05,True
+stratx_tx_1677,47,XLM → USDC → EURC,60,7.05e-05,True
+stratx_tx_1678,48,XLM → BTC → EURC,60,7.2e-05,True
+stratx_tx_1679,49,XLM → USDT → USDC → EURC,60,7.35e-05,True
+stratx_tx_1680,40,XLM,45,6e-05,True
+stratx_tx_1681,41,XLM → USDC,60,6.15e-05,True
+stratx_tx_1682,42,XLM → USDC → EURC,60,6.3e-05,True
+stratx_tx_1683,43,XLM → BTC → EURC,60,6.45e-05,True
+stratx_tx_1684,44,XLM → USDT → USDC → EURC,60,6.6e-05,True
+stratx_tx_1685,30,XLM,45,4.5e-05,True
