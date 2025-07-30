@@ -1,4 +1,4 @@
-Strategic Sanctions Enforcement (Russia)
+# Scenario 02: Strategic Sanctions Enforcement (Russia)
 
 ## 🧨 Problem
 Sanctions are notoriously porous — Russia and other state actors often route money through friendly nations or stablecoin exchanges.
