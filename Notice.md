@@ -4,6 +4,9 @@
 - U.S. Non-Provisional filed July 24, 2025 – StratX™  
 - U.S. Provisional filed July 4, 2025 – RouteFi™ Institutional Wallet  
 
+**Purpose:**  
+This notice is provided to clarify for potential strategic partners evaluating StratX™ and RouteFi™ in light of recent developments in the regulated payments space.
+
 ---
 
 ## Overview
