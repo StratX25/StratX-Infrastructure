@@ -51,7 +51,7 @@ This is the equivalent of owning the **SWIFT of the future**, but programmable, 
 
 Here’s a simplified look at how StratX integrates into the global banking system:
 
-![StratX Global Banking System](assets/assets/Global.flowchart.PNG)
+![StratX Global Banking System](assets/Global.flowchart.PNG)
 
 ---
 
