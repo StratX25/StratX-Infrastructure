@@ -58,3 +58,15 @@ You can clone infrastructure. But you can’t clone intent.
 🔗 This repo contains high-level public documentation only.
 
 Let the world build their future. We’ve already coded ours.
+
+### Regulatory Alignment (High-Level)
+
+StratX is engineered to meet emerging market-structure expectations emphasizing:
+- Supervisory telemetry and automated attestations  
+- Pre-settlement rule enforcement and jurisdictional gating  
+- Developer neutrality and non-custodial infrastructure  
+
+This design follows the principles described in current U.S. legislative drafts that
+differentiate *non-controlling infrastructure providers* from money-transmitting entities.
+In practice, StratX functions as a **developer-safe infrastructure layer**—it enables
+compliance and transparency without assuming custody or unilateral transaction control.
