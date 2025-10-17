@@ -68,7 +68,7 @@
 ---
 
 ## **Legal Notice**
-> StratX™ is Patent Pending protected under *U.S. Patent Application No. [19 280,077]* — *Abel Justin Oliveira, Inventor.*  
+> StratX™ is Patent Pending under *U.S. Patent Application No. [19 280,077]* — *Abel Justin Oliveira, Inventor.*  
 > Unauthorized use, deployment, or derivative creation constitutes infringement under 35 U.S.C. § 271.  
 
 ---
