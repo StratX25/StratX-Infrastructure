@@ -73,7 +73,7 @@ Developed by **Abel Justin Oliveira**, StratX unifies compliance, liquidity opti
 This document is a public summary for **informational and procurement readiness purposes only**.  
 All proprietary, technical, and licensing details remain confidential and available solely under NDA.
 
-> **Disclaimer:** StratX™ is protected under *U.S. Patent Application No. [19 280,077]* — *Abel Justin Oliveira, Inventor.*  
+> **Disclaimer:** StratX™ is patent pending under *U.S. Patent Application No. [19 280,077]* — *Abel Justin Oliveira, Inventor.*  
 > Unauthorized use, deployment, or derivative creation constitutes infringement under 35 U.S.C. §271.
 
 ---
