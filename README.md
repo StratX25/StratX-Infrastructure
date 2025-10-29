@@ -1,3 +1,5 @@
+![StratX CI](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/StratX25/StratX-Infrastructure/main/status.json)
+
 ## 🧭 The Global Financial System Is Splintering — StratX Is the Bridge
 
 In July 2025, the White House released a 160-page digital asset report calling for a programmable financial infrastructure that enforces compliance, eliminates CBDCs, empowers private stablecoins, and routes assets across fiat, tokenized, and blockchain rails.
