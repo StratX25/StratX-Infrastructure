@@ -1,4 +1,4 @@
-![StratX CI](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/StratX25/StratX-Infrastructure/main/ci.json)
+![CI Pipeline](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/StratX25/StratX-Infrastructure/main/ci.json)
 ![SmokeTest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/StratX25/StratX-Infrastructure/main/smoketest.json)
 
 ## 🧭 The Global Financial System Is Splintering — StratX Is the Bridge
